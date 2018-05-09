@@ -14,15 +14,15 @@
 
 ### [](#header-3) Architecture:
 
-!["Implementation Schema"]({{ site.url }}/images/FlowDiagram.png)
+!["Implementation Schema"]({{ site.url }}/assets/images/FlowDiagram.png)
 
 
 ### [](#header-3) Level 1 Topic Modelling (with False positives):
 
-!["Implementation Schema"]({{ site.url }}/images/initial_topic_distribution.png)
+!["Implementation Schema"]({{ site.url }}/assets/images/initial_topic_distribution.png)
 
 ### [](#header-3) Sample Output:
 
-!["Implementation Schema"]({{ site.url }}/images/Sample_output.png)
+!["Implementation Schema"]({{ site.url }}/assets/images/Sample_output.png)
 
 <br><br>
