@@ -14,15 +14,15 @@
 
 ### [](#header-3) Architecture:
 
-!["Implementation Schema"]({{ site.url }}/assets/images/FlowDiagram.png)
+!["Implementation Architecture"](https://github.com/jadhavhninad/Business_Improvement_Recommender_System/blob/master/assets/images/FlowDiagram.png)
 
 
 ### [](#header-3) Level 1 Topic Modelling (with False positives):
 
-!["Implementation Schema"]({{ site.url }}/assets/images/initial_topic_distribution.png)
+!["Topic Modelling"](https://github.com/jadhavhninad/Business_Improvement_Recommender_System/blob/master/assets/images/initial_topic_distribution.png)
 
 ### [](#header-3) Sample Output:
 
-!["Implementation Schema"]({{ site.url }}/assets/images/Sample_output.png)
+!["Ouput"](https://github.com/jadhavhninad/Business_Improvement_Recommender_System/blob/master/assets/images/Sample_output.png)
 
 <br><br>
